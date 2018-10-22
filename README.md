@@ -3,8 +3,8 @@ Andersen Analysis covering four basic statements
 
 p=&a
 
-p=q   copy
+p=q   (copy)
 
-*p=q  store
+*p=q  (store)
 
-p=*q  load
+p=*q  (load)
