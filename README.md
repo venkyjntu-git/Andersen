@@ -1,6 +1,6 @@
-# Andersen
-Andersen Analysis on four basic statements
+# Andersen flow-insensitive pointer analysis
+Andersen Analysis covering four basic statements
 p=&a
-p=q
-*p=q
-p=*q
+p=q   copy
+*p=q  store
+p=*q  load
