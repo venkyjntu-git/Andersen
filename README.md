@@ -8,3 +8,11 @@ p=q   (copy)
 *p=q  (store)
 
 p=*q  (load)
+
+
+Compile & Run
+
+g++ Andersen.cpp
+
+./a.out sample.txt x.dot
+
