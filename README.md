@@ -16,3 +16,5 @@ g++ Andersen.cpp
 
 ./a.out sample.txt x.dot
 
+If you are in IITB local network, you can check the following LAN application
+http://10.130.168.3/Anderson/
